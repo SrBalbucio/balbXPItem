@@ -1,0 +1,8 @@
+#balbXPItem - Desenvolvido por Sr_Balbucio
+#
+#Obrigado por usar meu plugin! <3
+reward: "§aVocê upou de nível e por isso recebeu um(a) %item!"name: BalbXPItem
+version: '${project.version}'
+main: me.balbucio.free.xpitem.Spigot
+authors: [ Sr_Balbucio ]
+description: De itens conforme o XP do jogador
